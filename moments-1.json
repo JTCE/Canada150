@@ -1,0 +1,209 @@
+{
+  "_embedded" : {
+    "moment" : [ {
+      "message" : "Le 6 septembre 1814, George Ã‰tienne-Cartier est nÃ© Ã  Saint-Antoine-sur-Richelieu. Il est allÃ© au collÃ¨ge Ã  MontrÃ©al et devient avocat avant d'entrer en politique.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829675483733464/?type=1",
+      "location" : "Saint-Jean-sur-Richelieu, QuÃ©bec",
+      "title" : "Cartier â€“ 200e",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1814,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/14"
+        }
+      }
+    }, {
+      "message" : "John A. Macdonald est nÃ© Ã  Glasgow, Scotland le 11 janvier 1815 et, Ã  lâ€™Ã¢ge de 5 ans, a immigrÃ© au Canada. Ã€ lâ€™Ã¢ge de 15 ans, il quitte lâ€™Ã©cole pour poursuivre une carriÃ¨re en droit.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829671083733904/?type=1",
+      "location" : "Glasgow, Ecosse",
+      "title" : "Macdonald â€“ Le dÃ©but",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1815,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/10"
+        }
+      }
+    }, {
+      "message" : "AprÃ¨s avoir participÃ© aux rÃ©bellions de 1837, George-Ã‰tienne Cartier a poursuivi sa carriÃ¨re en droit avant de se lancer plus tard en politique.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829673620400317/?type=1",
+      "location" : "Bas-Canada",
+      "title" : "Cartier et les rÃ©bellions de 1837",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1837,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/16"
+        }
+      }
+    }, {
+      "message" : "Principal architecte et pÃ¨re de la ConfÃ©dÃ©ration, Sir George-Ã‰tienne Cartier fait entrer le QuÃ©bec dans la ConfÃ©dÃ©ration et aide Ã  nÃ©gocier plus tard lâ€™entrÃ©e dans le Canada des Territoires du Nord-Ouest, du Manitoba et de la Colombie-Britannique.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829674447066901/?type=1",
+      "location" : "MontrÃ©al, QuÃ©bec",
+      "title" : "Cartier â€” RÃ©alisations",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1867,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/18"
+        }
+      }
+    }, {
+      "message" : "John A. Macdonald Ã©tait un avocat, un homme dâ€™affaires et un politicien. Il a jouÃ© un rÃ´le crucial, tout comme Sir George-Etienne Cartier, dans les nÃ©gociations qui ont menÃ© Ã  la ConfÃ©dÃ©ration.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829672577067088/?type=1",
+      "location" : "Gatineau, QuÃ©bec",
+      "title" : null,
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1867,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/12"
+        }
+      }
+    }, {
+      "message" : "James Naismith, natif dâ€™Almonte en Ontario, a donnÃ© au monde le basketball.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829676047066741/?type=1",
+      "location" : "Springfield, Massachussetts",
+      "title" : "Le basketball est nÃ©",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1891,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/2"
+        }
+      }
+    }, {
+      "message" : "#EnCeJour il y a 100 ans, le Canada entre dans la #PGM aux cÃ´tÃ©s des Britanniques. pic.twitter.com/uo6AXSluF6 via @BiblioArchives",
+      "link" : "https://twitter.com/canada150e/status/496315897444040704",
+      "location" : "Europe",
+      "title" : "Canada et la PremiÃ¨re Guerre mondiale",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1914,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/26"
+        }
+      }
+    }, {
+      "message" : "2nde Guerre Mondiale:pour la 1Ã¨re fois, le Canada combat en tant que pays indÃ©pendant #jourJ pic.twitter.com/EkOF9vq3BN via @AmbCanFrance",
+      "link" : "https://twitter.com/canada150e/status/473590627457069057",
+      "location" : "Europe",
+      "title" : "Canada et Jour-J",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1939,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/24"
+        }
+      }
+    }, {
+      "message" : "Expo 67 fut un kalÃ©idoscope dâ€™architecture, de vÃªtements et de costumes, de nourriture et de musique, de nouveautÃ©s et de technologie venant de partout dans le monde. Mon Canada a commencÃ© avec Expo 67. Et câ€™est aussi sur un banc dâ€™Expo 67 que jâ€™ai donnÃ© et reÃ§u mon premier baiser mouillÃ©â€¦.",
+      "link" : "https://www.youtube.com/watch?v=RR2WxTf-HrY",
+      "location" : "MontrÃ©al, QuÃ©bec",
+      "title" : "MontrÃ©al, QuÃ©bec",
+      "name" : "Jean-Christophe",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 2,
+      "time" : 1967,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/29"
+        }
+      }
+    }, {
+      "message" : "Quelques arpents de piÃ¨gesÂ : le jeu le plus couronnÃ© de succÃ¨s dans lâ€™histoire du Canada et conÃ§u par deux MontrÃ©alais il y a 35 ans. ",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829676543733358/?type=1",
+      "location" : "MontrÃ©al, QuÃ©bec",
+      "title" : "Quelques arpents de piÃ¨gesÂ : une invention canadienne",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 1979,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/4"
+        }
+      }
+    }, {
+      "message" : "Le 13 mars 2013, lâ€™astronaute Chris Hadfield est devenu le premier Canadien Ã  prendre le commandement dâ€™un engin spatial en tant que commandant de la Station spatiale internationale. Il a aussi crÃ©Ã© un vÃ©ritable engouement dans les mÃ©dias sociaux.",
+      "link" : "https://www.youtube.com/watch?v=Q_RB1ENTayU",
+      "location" : "Station spatiale internationale",
+      "title" : "Chris Hadfield chante Space Oddity de David Bowie",
+      "name" : "Gouvernement du Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 1,
+      "time" : 2013,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/8"
+        }
+      }
+    }, {
+      "message" : "En vacances, dans la rÃ©gion de Whistler, je me suis arrÃªtÃ©e plusieurs fois pour regarder le paysage et surtout, pour rendre hommage Ã  mon pays.  Ce sentiment de fiertÃ©, aussi grand que les montagnes que jâ€™ai admirÃ©es, mâ€™habite toujours. ",
+      "link" : "https://www.flickr.com/photos/24206407@N07/9969655533/in/photolist-gbZ6fD-offNBj-nExfwM-kmkHQg-8L8UJq-8Zd1gw-91225S-anc8xk-n7LxcG-7S8Ui4-nHCasd-gStZUM-k7xAFs-fJtYfu-dzhKvJ-di6PYP-9122c7-nQzkgN-dvQQEq-brDj6f-7JWgqL-brSkc4-dEskG7-9kWFXX-aBBzoJ-bvW8WY-aYjQZe-brSi5a-eiQMSi-bwrVtt-b6VnAa-9kRKiB-j1HmAM-dNbV7S-dNXJyw-dBd67d-dvgW6Y-bsG4Wa-bAXwFD-dm4jzy-9ckawB-b3rWwR-cUAzGh-dzApyo-bEycQF-a9Pqqg-bvoAX2-ctcP53-gStg7L-ctdiK9-bTmKGz",
+      "location" : "Whistler, British Columbia",
+      "title" : "Whistler,  Colombie Britannique",
+      "name" : "Sylvie",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 1,
+      "categoryId" : 2,
+      "time" : 2013,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/28"
+        }
+      }
+    } ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "_embedded" : {
+    "moment" : [ {
+      "message" : "On Sept. 6, 1814, George Ã‰tienne-Cartier was born in Saint-Antoine-sur-Richelieu. He went to college in MontrÃ©al and became a lawyer before entering politics.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829675383733474/?type=1",
+      "location" : "Saint-Jean-sur-Richelieu, QuÃ©bec",
+      "title" : "Cartier â€“ 200th ",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1814,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/13"
+        }
+      }
+    }, {
+      "message" : "John A. Macdonald was born in Glasgow, Scotland on Jan. 11, 1815 and immigrated to Canada at age 5. At 15, he left school to pursue a career in law. ",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829670797067266/?type=1",
+      "location" : "Glasgow, Scotland",
+      "title" : "Macdonald â€“ The beginning",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1815,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/9"
+        }
+      }
+    }, {
+      "message" : "After participating in the Rebellions of 1837, George-Ã‰tienne Cartier continued his law career and, later, became involved in politics.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829673307067015/?type=1",
+      "location" : "Lower Canada",
+      "title" : "Cartier and the 1837 Rebellions",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1837,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/15"
+        }
+      }
+    }, {
+      "message" : "No-Province House was built in 1847, but NS opened its leg building in 1819.  Seems the LG really wanted a proper place: the gov. had been meeting in taverns and private homes! Hah! Learn more about PEI and its role in Confederation Canada.ca/150",
+      "link" : "https://upload.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829691467065199/?type=1",
+      "location" : "Prince Edward Island",
+      "title" : "Does PEI have the oldest legislative building in Canada?",
+      "name" : "Facebook User",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 2,
+      "time" : 1864,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/19"
+        }
+      }
+    }, {
+      "message" : "Letâ€™s not forget Sir Ã‰tienne-Paschal TachÃ©.  This doctor turned politician came out of retirement to chair the Quebec conference in 1864 and promoted the 72 resolutions that would form the basis of Confederation: sadly, he died in 1865.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829679097066436/?type=1",
+      "location" : "Quebec",
+      "title" : "The forgotten Father of Confederation",
+      "name" : "Facebook User",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 2,
+      "time" : 1864,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/21"
+        }
+      }
+    }, {
+      "message" : "A key architect and Father of Confederation, Sir George-Ã‰tienne Cartier led Quebec into Confederation and later helped negotiate the entry of the Northwest Territories, Manitoba and British Columbia into Canada.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829674323733580/?type=1",
+      "location" : "Montreal",
+      "title" : "Cartier â€“ Accomplishments",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1867,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/17"
+        }
+      }
+    }, {
+      "message" : "John A. Macdonald was a lawyer, businessman and politician. He was instrumental, along with Sir George-Etienne Cartier, in the negotiations that led to Confederation.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829672137067132/?type=1",
+      "location" : "Gatineau, Quebec",
+      "title" : "John A. Macdonald",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1867,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/11"
+        }
+      }
+    }, {
+      "message" : "Almonte, Ont. Native, James Naismith, gave the world basketball.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829675953733417/?type=1",
+      "location" : "Springfield, Massachussetts",
+      "title" : "Basketball is born",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1891,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/1"
+        }
+      }
+    }, {
+      "message" : "100 years ago #OTD, Canada entered the #FWW with Britain when Germany invaded Belgium. pic.twitter.com/UTiFg6ifye via @LibraryArchives",
+      "link" : "https://twitter.com/canada150th/status/496315964913635330",
+      "location" : "Europe",
+      "title" : "Canada and the First World War",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1914,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/25"
+        }
+      }
+    }, {
+      "message" : "#WorldWar2: for the 1st time, Canada fights as an independent country #DdayCa pic.twitter.com/zLLONwMNzd via @CanEmbFrance",
+      "link" : "https://twitter.com/canada150th/status/473589726545723392",
+      "location" : "Europe",
+      "title" : "Canada and D-Day",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1939,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/23"
+        }
+      }
+    }, {
+      "message" : "Trivial Pursuit: most successful board game in Canadaâ€™s history is the brainchild of two Montrealers 35 years ago.",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829676340400045/?type=1",
+      "location" : "MontrÃ©al, QuÃ©bec",
+      "title" : "Trivial Pursuit: a Canadian Invention",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 1979,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/3"
+        }
+      }
+    }, {
+      "message" : "The Duke and Duchess of Cambridge and the Prince of Wales and the Duchess of Cornwall visited PEI and Quebec on recent tours to Canada to mark the Conferences that created Canada",
+      "link" : "https://www.facebook.com/812350528799293/photos/a.829670980400581.1073741826.812350528799293/829682297066116/?type=1",
+      "location" : "PEI",
+      "title" : "The Royals mark the Charlottetown and Quebec Conferences",
+      "name" : "Canadian Crown",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 2,
+      "time" : 2011,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/22"
+        }
+      }
+    }, {
+      "message" : "On March 13, 2013, astronaut Chris Hadfield became the first Canadian to command a spaceship as CommanderÂ of the International Space Station. He also became a social media sensation.",
+      "link" : "https://www.youtube.com/watch?v=Q_RB1ENTayU",
+      "location" : "International Space Station",
+      "title" : "Chris Hadfield Sings David Bowie's Space Oddity",
+      "name" : "Government of Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 1,
+      "time" : 2013,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/7"
+        }
+      }
+    }, {
+      "message" : "A great day to be a Canadian. #Sochi2014 pic.twitter.com/ficiGTaIFO via @HockeyCanada",
+      "link" : "https://twitter.com/SportCanada_EN/status/431910999386775553",
+      "location" : "N/A",
+      "title" : "2014 Sochi Olympic Games",
+      "name" : "Sport Canada",
+      "email" : "medias.sociaux@pch.gc.ca",
+      "typeId" : 0,
+      "language" : 0,
+      "categoryId" : 2,
+      "time" : 2014,
+      "approved" : true,
+      "_links" : {
+        "self" : {
+          "href" : "http://moments.canada150.gc.ca/can150restdata/moment/27"
+        }
+      }
+    } ]
+  }
+}
